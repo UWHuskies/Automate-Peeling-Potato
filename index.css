@@ -1,0 +1,25 @@
+.hi {
+      margin: auto;
+  width: 50%;
+  padding: 20px;
+  text-align: center;
+}
+body {
+    background-color: #87CEEB;
+}
+.space {
+    margin-bottom: 25px;
+}
+main {
+    padding: 1%
+}
+.pb-3 {
+height: 200px;
+}
+
+img {
+        display: block;  
+    margin-left: auto;  
+    margin-right: auto;   
+    padding: 5px; 
+}
