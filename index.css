@@ -22,4 +22,6 @@ img {
     margin-left: auto;  
     margin-right: auto;   
     padding: 5px; 
+        height: 350px;
+    width: 300px;
 }
